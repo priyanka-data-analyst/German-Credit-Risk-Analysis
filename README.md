@@ -45,6 +45,8 @@ The model achieved a 73% Accuracy rate on the test set.
 ​   Train the Random Forest model.
 ​   Print the Accuracy Report.
 
-👤 Author
-Priyanka Deshpande 
-Data Analyst 
+📝 Author & Project Credit
+
+Developer: Priyanka Deshpande
+Data Source: German Credit Risk Analysis.
+Project Goal: Portfolio demonstration of Data Engineering and Business Intelligence expertise.
