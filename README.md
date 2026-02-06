@@ -14,6 +14,15 @@ By analyzing historical data from 1,000 applicants, I built a Random Forest Clas
 ⁕ Libraries: Scikit-Learn (Machine Learning), Pandas (Data Manipulation), Seaborn (Visualization).
 ⁕ Model: Random Forest Classifier.
 
+Python output Proof of Concept:
+
+<img width="1284" height="719" alt="Model_accuracy_report" src="https://github.com/user-attachments/assets/d1ef81c9-4bfa-4f36-b827-d642621d5be3" />
+
+<img width="1000" height="600" alt="Graph_Figure_1" src="https://github.com/user-attachments/assets/a00f6c46-fe35-4b77-8fba-46742b7d17b2" />
+
+(My python code running in the Pycharm)
+
+
 📈 Model Performance
 The model achieved a 73% Accuracy rate on the test set.
 ⁕ Precision: 78% for Good Risk.
@@ -37,4 +46,5 @@ The model achieved a 73% Accuracy rate on the test set.
 ​   Print the Accuracy Report.
 
 👤 Author
-Priyanka Deshpande Data Analyst | Python | Excel
+Priyanka Deshpande 
+Data Analyst 
