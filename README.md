@@ -23,10 +23,10 @@ Python output Proof of Concept:
 (My python code running in the Pycharm)
 
 
-📈 Model Performance
-The model achieved a 73% Accuracy rate on the test set.
-⁕ Precision: 78% for Good Risk.
-⁕ Recall: 87% for Good Risk (The model effectively captures safe applicants).
+📊 Model Performance Analysis
+
+👉 Accuracy: The Random Forest model achieved a 68% accuracy rate in predicting credit default.
+👉Risk Management: While the model is highly effective at identifying "Good" applicants, the Confusion Matrix reveals a focus area for future optimisation: reducing "False Negatives" to further protect the bank from high-risk defaults.
 
 🖼️ Visualization
 ⁕ Analyzed the relationship between Credit Amount and Risk Status:
